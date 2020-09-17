@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Football Match Schedule</string>
+
+    <string name="icon_club">Club icon</string>
+
+    <string name="menu_past_match">Previous Match</string>
+    <string name="menu_next_match">Next Match</string>
+
+    <string name="schedule_opponent">vs</string>
+    <string name="match_goals">Goals</string>
+    <string name="match_shots">Shots</string>
+    <string name="match_lineups">Lineups</string>
+    <string name="match_gk">Goalkeeper</string>
+    <string name="match_def">Defender</string>
+    <string name="match_mid">Midfielder</string>
+    <string name="match_fwd">Forwarder</string>
+    <string name="match_sub">Substitutes</string>
+
+    <string name="fav_menu">Favorite</string>
+    <string name="fav_match_added">Match added to favorites</string>
+    <string name="fav_match_removed">Match removed from favorites</string>
+    <string name="fav_match_error">Error processing favorites</string>
+
+</resources>
